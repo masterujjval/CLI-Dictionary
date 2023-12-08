@@ -1,6 +1,6 @@
 ## About
 
-A command line interface dictionary tool for CLI nerds to get the meaning of the particular by using the old traditional terminal way. This tool will provide you the word's meaning but requires internet to do so as this tool uses API.
+A command line interface dictionary tool for CLI nerds to get the meaning of the particular word by using the old traditional terminal way. This tool will provide you the word's meaning but requires internet to do so as this tool uses API.
 
 The API that has been used for developing this tool is free and open-source do check out the repo of this amazing repo:- [Repo](https://github.com/meetDeveloper/freeDictionaryAPI)
 
