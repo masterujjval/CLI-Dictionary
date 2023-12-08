@@ -1,6 +1,14 @@
 ## About
 
-A command line interface dictionary tool for CLI nerds to get the meaning of the particular by using the old traditional terminal way.
+A command line interface dictionary tool for CLI nerds to get the meaning of the particular by using the old traditional terminal way. This tool will provide you the word's meaning but requires internet to do so as this tool uses API.
 
-![Screenshot from 2023-12-08 16-56-41](https://github.com/masterujjval/CLI-Dictionary/assets/64778409/4e27fd44-a4ec-4b56-9d85-e567e03ba912)
+The API that has been used for developing this tool is free and open-source do check out the repo of this amazing repo:- [Repo](https://github.com/meetDeveloper/freeDictionaryAPI)
+
+## Installation
+
+Just fork the repo and head to the directory. Execute ```Chmod +x *``` to the required permission to the files.
+
+```./dict``` to run the tool within the local directory.
+```./command-dict``` after executing this command, you can now use the tool from anywhere just type ```dict``` and hit enter.
+
   
