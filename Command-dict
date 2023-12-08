@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Moving the file to /usr/local/bin"
+chmod +x *
+sudo mv dict /usr/local/bin/
+cd /usr/local/bin
+sudo chmod +x *
+
+
